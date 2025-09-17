@@ -2,18 +2,15 @@
 
 ## Lenguajes y Tecnologías
 
-🛠️ Tecnologías Utilizadas
-
+Tecnologías Utilizadas
+- SQL Server Management Studio 2021
 
 ## Integrantes + Grupo Teórico
 
-- **Katherine Alexandra Pinto Vila** – Carnet: PV251591  
-**Grupo Teórico:** 
+- **Katherine Alexandra Pinto Vila** – Carnet: PV251591
+- **Gabriela Stephani Figueroa Calderon** - Carnet: FC250109  
+**Grupo Teórico:** Análisis y Diseño de Sistemas y Base de Datos ASB404 G02L 
 - **Docente:** Ingeniera Delmy Azucena Majano Menjívar
-
-## Organización del Proyecto
-
-
 
 ## Estructura del Repositorio
 
@@ -21,4 +18,3 @@
 - **📂 Documentacion**
 - **📂 Proyecto**
 - **📄 README.md**
-- **📄 LICENSE**
