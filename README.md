@@ -1,4 +1,4 @@
-# ​ DESAFIO2: Sistema de Gestión para Supermercado “SuperAhorro”
+# ​ **Sistema de Gestión para Supermercado “SuperAhorro”**
 
 ## Lenguajes y Tecnologías
 
