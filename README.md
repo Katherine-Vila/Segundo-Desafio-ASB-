@@ -4,6 +4,7 @@
 
 Tecnologías Utilizadas
 - SQL Server Management Studio 2021
+- Draw.io
 
 ## Integrantes + Grupo Teórico
 
